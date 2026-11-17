@@ -1,0 +1,4 @@
+src="media/intro.mp4" wrong ==> src="../media/intro.mp4"
+1. relative path is from html
+2. delete it becauese even if its = false the sound will not appear
+3. preload="metadata
