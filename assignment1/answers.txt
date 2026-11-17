@@ -1,1 +1,2 @@
-
+the elemnt I used for the browser tab  is ( title)
+the elemnt I used for the main heading is (h1)
