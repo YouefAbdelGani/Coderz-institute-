@@ -1,0 +1,4 @@
+The style.css link returned a 404 because the file was named `styles.css`, so I corrected the link first
+  then fixed the `h2` font size from `1.5em` to `1.5rem`, correcting it from 30px to 24px; 
+  fixed the `--brnad` typo to `--brand` and removed the inline tomato color; and corrected `.action :hover` to `.action:hover` so the link changes color when hovered.
+   I also fixed `.course-card` to target the class, limited its paragraph styling to direct children, added the missing `::before` content, and made the keyboard-focus outline visible. I tested the fixes in the browser, and no `!important` was used.
