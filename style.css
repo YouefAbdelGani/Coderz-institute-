@@ -1,0 +1,18 @@
+#course-title {
+  color: purple;
+}
+.title {
+  color: orange;
+}
+h1 {
+  color: navy;
+}
+.course-card {
+  color: #374151;
+}
+a:hover {
+  color: #d88d1d;
+}
+a:focus-visible {
+  outline: 5px solid #d88d1d;
+}

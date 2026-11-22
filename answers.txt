@@ -1,0 +1,5 @@
+ when we open the page the color of h1 is purple which is the color of #id
+#id > . class > <tag>
+when we disable the #course -title it will take its own color navy color
+both paragraphs will have the card color 374151
+the orange color appears on hover, and the outline appears when you reach the link with Tab.
