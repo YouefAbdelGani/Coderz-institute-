@@ -1,0 +1,12 @@
+index.html ( href= style.css)
+course.html(href=../style.css) cuz its not at the same folder we use ../
+
+article[data-status="full"] .status
+
+This selector matches the <span class="status"> element that is inside
+an <article> whose data-status attribute equals "full". In my page, that
+is the status text of the CSS Foundations card. It does not match the
+<article> itself, the <h2>, or the <p> description, because the space
+(descendant combinator) moves the match from the article down to the
+span with class "status" inside it. That is why only the status label
+turns gray and the description stays on the normal card background.
